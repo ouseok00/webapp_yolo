@@ -5,3 +5,5 @@ Python 코드와 웹캠을 웹에서 구동하려면 Python 백엔드와 HTML/Ja
 이 프로그램은 yolo5.pt 원형 모델을 이용하여
 object Detect를 하는 파이썬 프로그램을 하였고
 파이썬 코드를 index.html로 바꾸어 달라고 coPliot을 이용하여 진행 하였습니다.
+
+Flask는 템플릿 파일을 templates 디렉토리에서 찾으므로, yolo001 디렉토리에 templates라는 폴더를 생성해야합니다.
